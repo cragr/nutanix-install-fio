@@ -11,13 +11,13 @@ RPM_URLS=(
     "https://dl.rockylinux.org/pub/rocky/8/AppStream/x86_64/os/Packages/b/boost-regex-1.66.0-13.el8.x86_64.rpm"
     "https://dl.rockylinux.org/pub/rocky/8/AppStream/x86_64/os/Packages/b/boost-system-1.66.0-13.el8.x86_64.rpm"
     "https://dl.rockylinux.org/pub/rocky/8/AppStream/x86_64/os/Packages/b/boost-thread-1.66.0-13.el8.x86_64.rpm"
-    "https://dl.rockylinux.org/pub/rocky/8/AppStream/x86_64/os/Packages/d/daxctl-devel-71.1-7.el8.x86_64.rpm"
+    "https://dl.rockylinux.org/pub/rocky/8/BaseOS/x86_64/os/Packages/d/daxctl-libs-71.1-7.el8.x86_64.rpm"
     "https://dl.rockylinux.org/pub/rocky/8/AppStream/x86_64/os/Packages/f/fio-3.19-4.el8.x86_64.rpm"
     "https://dl.rockylinux.org/pub/rocky/8/AppStream/x86_64/os/Packages/l/libpmem-1.6.1-1.el8.x86_64.rpm"
     "https://dl.rockylinux.org/pub/rocky/8/AppStream/x86_64/os/Packages/l/libpmemblk-1.6.1-1.el8.x86_64.rpm"
     "https://dl.rockylinux.org/pub/rocky/8/AppStream/x86_64/os/Packages/l/librados2-12.2.7-9.el8.x86_64.rpm"
     "https://dl.rockylinux.org/pub/rocky/8/AppStream/x86_64/os/Packages/l/librbd1-12.2.7-9.el8.x86_64.rpm"
-    "https://dl.rockylinux.org/pub/rocky/8/AppStream/x86_64/os/Packages/n/ndctl-devel-71.1-7.el8.x86_64.rpm"
+    "https://dl.rockylinux.org/pub/rocky/8/BaseOS/x86_64/os/Packages/n/ndctl-libs-71.1-7.el8.x86_64.rpm"
 )
 
 # Create a temporary directory for downloads
